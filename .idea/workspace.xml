@@ -60,8 +60,8 @@
       <file leaf-file-name="tab.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tab.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="650">
+              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -171,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521527823179</updated>
-      <workItem from="1528101684369" duration="389000" />
+      <workItem from="1528101684369" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="增加登录页面&#10;">
       <created>1521528149912</created>
@@ -184,7 +184,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="389000" />
+    <option name="totallyTimeSpent" value="417000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -327,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tab.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        <state relative-caret-position="650">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>
